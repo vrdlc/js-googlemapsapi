@@ -1,16 +1,8 @@
-form {
-  width: 50%;
-  margin:auto;
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
-label {
-  width:25%;
-}  
-label, input {
-  display: inline-block;
-}
-input {
-  width: 75%;
-}
-input[type=submit] {
-  width:100%;
+#map {
+  height: 100%;
 }
