@@ -102,7 +102,7 @@ gulp.task('serve', function() {
   gulp.watch("message.txt", ['gitCommit']);
   gulp.watch(["*"], ["gitStatus"]);
 });
-
+//
 gulp.task('jshint', function(){
   return gulp.src(['js/*.js'])
   .pipe(jshint())
