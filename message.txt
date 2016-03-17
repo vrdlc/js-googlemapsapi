@@ -1,1 +1,1 @@
-demo commit 
+be able to delete individual markers from map
